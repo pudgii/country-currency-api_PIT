@@ -1,4 +1,3 @@
-Services.py
 import requests
 
 COUNTRY_API = "https://restcountries.com/v3.1/name/{}"
